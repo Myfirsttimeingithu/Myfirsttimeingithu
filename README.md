@@ -5,7 +5,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was born from Ghana and my teacher is also born from Ghana
 
-<!---
-Myfirsttimeingithu/Myfirsttimeingithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+Thank you that is my READme.md 🫶🏻
